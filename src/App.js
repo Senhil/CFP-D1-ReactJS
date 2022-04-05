@@ -1,3 +1,4 @@
+
 import './App.css';
 
 function App() {
@@ -7,11 +8,10 @@ function App() {
 
   return (
     <div>
-    <p>Hello From BridgeLabz </p>
-    
+    <p>Hello from BridgeLabz</p>
+   
     </div>
   );
 }
 
 export default App;
- 

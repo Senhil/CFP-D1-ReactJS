@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div>
-    <p>Hello from BridgeLabz </p>
+    {/* <p>Hello from BridgeLabz </p> */}
     <h1> Hello {name}, from Bridgelabz</h1>
 
     </div>

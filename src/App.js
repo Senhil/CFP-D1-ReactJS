@@ -1,4 +1,4 @@
-import logo from './BridgeLabz New Logo.svg';
+import logo from './BridgeLabzLogo.svg';
 import './App.css';
 
 function App() {
@@ -11,6 +11,7 @@ function App() {
     <div>
     <p>Hello from BridgeLabz</p>
     <h1>Hello {name}, from Bridgelabz</h1>
+
     
     <img src = {logo} alt ="Just Logo" />
     </div>

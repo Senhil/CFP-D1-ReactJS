@@ -1,14 +1,14 @@
-import ReactDOM from 'react-dom';
+// import ReactDOM from 'react-dom';
 import './App.css';
 import React from 'react';
 import logo from './asset/BridgeLabzLogo.svg'
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+// import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import Layout from "./Components/Layout.js";
-import Home from "./Components/Home";
-import Blogs from "./Components/Blogs";
-import Contact from "./Components/Contact";
-import NoPage from "./Components/NoPage";
+// import Layout from "./Components/Layout.js";
+// import Home from "./Components/Home";
+// import Blogs from "./Components/Blogs";
+// import Contact from "./Components/Contact";
+// import NoPage from "./Components/NoPage";
 
 class App extends React.Component{
   url= "https://www.bridgelabz.com/"
@@ -83,4 +83,4 @@ class App extends React.Component{
   }
 }
 export default App;
-ReactDOM.render(<App />, document.getElementById("root"));
+// ReactDOM.render(<App />, document.getElementById("root"));
